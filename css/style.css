@@ -1,0 +1,50 @@
+body{
+	margin:0;
+	padding: 0;
+	background-color: #f0f4f4;
+	font: 20px/1.5 sans-serif;
+}
+
+.container{
+	width: 90%;
+	margin: auto;
+}
+
+.navbar{
+	background-color: rgb(114, 169, 225);
+}
+
+.navbar-nav li{
+	font-size: 24px;	
+}
+
+.navbar-brand{
+	padding: 0;
+}
+
+.navbar-brand img{
+	width: 45px;
+	height: 55px;
+}
+
+#account{
+	width: 50%;
+	height: 50%;
+}
+
+.link-btn{
+	color: white;
+}
+
+/* contain */
+#welcome-text{
+	margin-top: 20px;
+}
+
+.form-submit{
+	text-align: center;
+}
+
+footer{
+	background-color: rgb(114, 169, 225);
+}
